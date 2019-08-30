@@ -1,0 +1,52 @@
+body{
+	font-family: Tahoma;
+	font-size: 13px;
+	margin: 0px auto;
+}
+#content{
+
+	font-size: 30px;
+	margin: auto;
+	height: 1742px;
+	background: url('brooke-lark-1Rm9GLHV0UA-unsplash.jpg') no-repeat;
+	background-size: cover;
+}
+#content img{
+	
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+#content form{
+	height: 300px;
+	width: 500px;
+}
+#frmLogIn{
+
+	padding-top: 600px;
+	padding-bottom: 150px;
+	margin: 0px auto;
+}
+#frmLogIn .row
+{
+	height:100px;
+	padding-bottom: 200px;
+}
+.input-group input-group-lg>.form-control{
+	height: 100px;
+}
+#login{
+	width: 700px;
+	height:150px;
+	margin-left: -90px;
+}
+#frmLogIn input[type="text"]
+{
+	border-radius: 2em;
+	background: rgba(192,192,785,0.3);
+    height: 150px;
+    border: none;
+    outline: none;
+    width:700px;
+    margin-left:-10%;
+    color:white;
+}
